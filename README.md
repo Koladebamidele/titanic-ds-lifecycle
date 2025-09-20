@@ -105,12 +105,7 @@ Different machine learning models were trained and evaluated:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/titanic-ds-lifecycle.git
-   cd titanic-ds-lifecycle
-   ```
+1. Clone this repository
 
 2. Install dependencies:
 
