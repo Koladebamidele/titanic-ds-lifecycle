@@ -1,0 +1,135 @@
+ticket,family_name,pclass,embarked,cabin_status,fare,male_count,female_count,family_size,#female_survived,#male_survived,#survived
+110152,Cherry,1,S,known,86.5,0,3,3,3,0,3
+110413,Taussig,1,S,known,79.65,1,2,3,2,0,2
+110465,Porter,1,S,known,52.0,2,0,2,0,0,0
+111361,Hippach,1,C,known,57.9792,0,2,2,2,0,2
+113505,Chibnall,1,S,known,55.0,0,2,2,2,0,2
+113572,Icard,1,S,known,80.0,0,2,2,2,0,2
+113760,Carter,1,S,known,120.0,2,2,4,2,2,4
+113776,Pears,1,S,known,66.6,1,1,2,1,0,1
+113781,Allison,1,S,known,151.55,1,3,4,1,1,2
+113789,Holverson,1,S,unknown,52.0,1,1,2,1,0,1
+113798,Cairns,1,C,unknown,31.0,1,1,2,1,0,1
+113803,Futrelle,1,S,known,53.1,1,1,2,1,0,1
+113806,Chambers,1,S,known,53.1,1,1,2,1,1,2
+11668,Turpin,2,S,unknown,21.0,1,1,2,0,0,0
+11751,Beckwith,1,S,known,52.5542,1,1,2,1,1,2
+11767,Hays,1,C,known,83.1583,0,2,2,2,0,2
+11967,Bishop,1,C,known,91.0792,1,1,2,1,1,2
+12749,Perreault,1,S,known,93.5,0,2,2,2,0,2
+13502,Andrews,1,S,known,77.9583,0,3,3,3,0,3
+13507,Silvey,1,S,known,55.9,1,1,2,1,0,1
+1601,Bing,3,S,unknown,56.4958,7,0,7,0,5,5
+16966,Spedden,1,C,known,134.5,0,2,2,2,0,2
+17421,Fleming,1,C,known,110.8833,2,2,4,2,1,3
+17453,Goldenberg,1,C,known,89.1042,1,1,2,1,1,2
+17474,Dick,1,S,known,57.0,1,1,2,1,1,2
+19877,Barber,1,S,known,78.85,1,1,2,1,0,1
+19928,Minahan,1,Q,known,90.0,1,1,2,1,0,1
+19943,Hoyt,1,S,known,90.0,1,1,2,1,1,2
+19950,Fortune,1,S,known,263.0,2,2,4,2,0,2
+19996,Taylor,1,S,known,52.0,1,1,2,1,1,2
+220845,Herman,2,S,unknown,65.0,0,2,2,2,0,2
+230080,Navratil,2,S,known,26.0,3,0,3,0,2,2
+230136,Becker,2,S,known,39.0,1,1,2,1,1,2
+230433,Parrish,2,S,unknown,26.0,0,2,2,2,0,2
+231919,Doling,2,S,unknown,23.0,0,2,2,2,0,2
+237736,Nasser,2,C,unknown,30.0708,1,1,2,1,0,1
+239853,Parkes,2,S,unknown,0.0,3,0,3,0,0,0
+239865,Fynney,2,S,unknown,26.0,2,0,2,0,0,0
+24160,Madill,1,S,known,211.3375,0,3,3,3,0,3
+243847,Jacobsohn,2,S,unknown,27.0,1,1,2,1,0,1
+244252,Carter,2,S,unknown,26.0,1,1,2,0,0,0
+244367,Kantor,2,S,unknown,26.0,1,1,2,1,0,1
+248727,Leitch,2,S,unknown,33.0,1,2,3,2,0,2
+248738,Caldwell,2,S,unknown,29.0,1,1,2,1,1,2
+250644,Mellinger,2,S,unknown,19.5,0,2,2,2,0,2
+250647,Greenberg,2,S,unknown,13.0,2,0,2,0,0,0
+250649,Hamalainen,2,S,unknown,14.5,1,1,2,1,1,2
+250655,Phillips,2,S,unknown,26.0,1,1,2,1,0,1
+2627,Attalah,3,C,unknown,14.4583,1,1,2,0,0,0
+26360,Quick,2,S,unknown,26.0,0,2,2,2,0,2
+2651,Nicola-Yarred,3,C,unknown,11.2417,1,1,2,1,1,2
+2653,Nakid,3,C,unknown,15.7417,1,1,2,1,1,2
+2659,Yasbeck,3,C,unknown,14.4542,1,1,2,1,0,1
+2661,Moubarek,3,C,unknown,15.2458,2,0,2,0,2,2
+2665,Zabour,3,C,unknown,14.4542,0,2,2,0,0,0
+2666,Baclini,3,C,unknown,19.2583,0,4,4,4,0,4
+2668,Peter,3,C,known,22.3583,0,2,2,2,0,2
+2678,Boulos,3,C,unknown,15.2458,0,2,2,0,0,0
+2691,Barbara,3,C,unknown,14.4542,0,2,2,0,0,0
+2699,Albimona,3,C,unknown,18.7875,2,0,2,0,1,1
+28403,McKane,2,S,unknown,26.0,2,0,2,0,0,0
+2908,Beane,2,S,unknown,26.0,1,1,2,1,1,2
+29106,Richards,2,S,unknown,18.75,2,1,3,1,2,3
+29750,Brown,2,S,unknown,39.0,1,1,2,1,0,1
+3101278,Backstrom,3,S,unknown,15.85,1,1,2,1,0,1
+3101295,Panula,3,S,unknown,39.6875,5,1,6,0,0,0
+31027,Renouf,2,S,unknown,21.0,1,1,2,1,0,1
+345764,Vander Planke,3,S,unknown,18.0,1,1,2,0,0,0
+345773,Van Impe,3,S,unknown,24.15,1,2,3,0,0,0
+347054,Strom,3,S,known,10.4625,0,2,2,0,0,0
+347077,Asplund,3,S,unknown,31.3875,2,2,4,2,1,3
+347080,Danbom,3,S,unknown,14.4,1,1,2,0,0,0
+347082,Andersson,3,S,unknown,31.275,2,5,7,0,0,0
+347088,Skoog,3,S,unknown,27.9,3,3,6,0,0,0
+347742,Johnson,3,S,unknown,11.1333,1,2,3,2,1,3
+349237,Arnold-Franchi,3,S,unknown,17.8,1,1,2,0,0,0
+349909,Palsson,3,S,unknown,21.075,1,3,4,0,0,0
+35273,Newell,1,C,known,113.275,1,2,3,2,0,2
+35281,White,1,S,known,77.2875,2,0,2,0,0,0
+358585,Patchett,3,S,unknown,14.5,2,0,2,0,0,0
+363291,Goldsmith,3,S,unknown,20.525,2,1,3,1,1,2
+364516,Dowdell,3,S,unknown,12.475,0,2,2,2,0,2
+364849,Bourke,3,Q,unknown,15.5,1,1,2,0,0,0
+367226,McCoy,3,Q,unknown,23.25,1,1,2,1,1,2
+367230,Murphy,3,Q,unknown,15.5,0,2,2,2,0,2
+36928,Wick,1,S,known,164.8667,0,2,2,2,0,2
+36947,Eustis,1,C,known,78.2667,0,2,2,2,0,2
+36973,Harris,1,S,known,83.475,1,1,2,1,0,1
+370129,Rosblom,3,S,unknown,20.2125,1,1,2,0,0,0
+370365,O'Brien,3,Q,unknown,15.5,1,1,2,1,0,1
+371110,Moran,3,Q,unknown,24.15,2,1,3,1,0,1
+376564,Thorneycroft,3,S,unknown,16.1,1,1,2,1,0,1
+382652,Rice,3,Q,unknown,29.125,4,1,5,0,0,0
+392096,Moor,3,S,known,12.475,1,1,2,1,1,2
+4133,Lefebre,3,S,unknown,25.4667,1,3,4,0,0,0
+54636,Bowen,3,S,unknown,16.1,2,0,2,0,0,0
+7534,Osen,3,S,unknown,9.2167,2,0,2,0,0,0
+A/4 48871,Davies,3,S,unknown,24.15,2,0,2,0,0,0
+A/5. 3336,Lobb,3,S,unknown,16.1,1,1,2,0,0,0
+C.A. 2315,Dean,3,S,unknown,20.575,2,0,2,0,1,1
+C.A. 2673,Abbott,3,S,unknown,20.25,1,1,2,1,0,1
+C.A. 31921,Collyer,2,S,unknown,26.25,1,2,3,2,0,2
+C.A. 33112,Nicholls,2,S,unknown,36.75,2,0,2,0,1,1
+C.A. 34651,West,2,S,unknown,27.75,1,2,3,2,0,2
+C.A. 37671,Coutts,3,S,unknown,15.9,2,0,2,0,2,2
+CA 2144,Goodwin,3,S,unknown,46.9,4,2,6,0,0,0
+CA. 2343,Sage,3,S,unknown,69.55,4,3,7,0,0,0
+F.C.C. 13529,Hart,2,S,unknown,26.25,1,2,3,2,0,2
+LINE,Leonard,3,S,unknown,0.0,4,0,4,0,1,1
+P/PP 3381,Abelson,2,C,unknown,24.0,1,1,2,1,0,1
+PC 17477,Aubart,1,C,known,69.3,0,2,2,2,0,2
+PC 17485,Francatelli,1,C,known,56.9292,1,1,2,1,1,2
+PC 17558,Baxter,1,C,known,247.5208,1,1,2,1,0,1
+PC 17569,Spencer,1,C,known,146.5208,0,2,2,2,0,2
+PC 17572,Harper,1,C,known,76.7292,2,1,3,1,2,3
+PC 17582,Graham,1,S,known,153.4625,1,2,3,2,0,2
+PC 17593,Giglio,1,C,known,79.2,2,0,2,0,0,0
+PC 17604,Meyer,1,C,unknown,82.1708,1,1,2,1,0,1
+PC 17608,Ryerson,1,C,known,262.375,0,2,2,2,0,2
+PC 17611,Frauenthal,1,S,unknown,133.65,1,1,2,1,1,2
+PC 17755,Ward,1,C,known,512.3292,2,1,3,1,2,3
+PC 17757,Bidois,1,C,known,227.525,1,3,4,3,0,3
+PC 17758,Penasco y Castellana,1,C,known,108.9,1,1,2,1,0,1
+PC 17760,Bissette,1,C,known,135.6333,1,2,3,2,0,2
+PC 17761,LeRoy,1,C,known,106.425,1,1,2,1,0,1
+PP 9549,Sandstrom,3,S,known,16.7,0,2,2,2,0,2
+S.C./PARIS 2079,Mallet,2,C,unknown,37.0042,2,0,2,0,1,1
+S.O./P.P. 3,Mack,2,S,known,10.5,1,1,2,0,0,0
+S.O.C. 14879,Hood,2,S,unknown,73.5,5,0,5,0,0,0
+SC/Paris 2123,Laroche,2,C,unknown,41.5792,1,2,3,2,0,2
+STON/O2. 3101279,Hakkarainen,3,S,unknown,15.85,1,1,2,1,0,1
+W./C. 6607,Johnston,3,S,unknown,23.45,1,1,2,0,0,0
+W./C. 6608,Ford,3,S,unknown,34.375,1,3,4,0,0,0
+WE/P 5735,Crosby,1,S,known,71.0,1,1,2,1,0,1
